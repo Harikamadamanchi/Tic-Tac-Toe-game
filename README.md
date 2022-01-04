@@ -1,5 +1,7 @@
 <h1>Tic-Tac-Toe Game</h1>
 
+https://harikamadamanchi.github.io/Tic-Tac-Toe-game/index.html
+
 <p>Simple Tic-Tac-Toe Game written in HTML, CSS, and JavaScript .</p>
 
 ### Use of the Project:
